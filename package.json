@@ -1,0 +1,19 @@
+{
+  "name": "charityfunding",
+  "version": "1.0.0",
+  "description": "Web application for decentralized transactions for funding to charities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amitesh",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "mongoose": "^7.0.3",
+    "passport": "^0.6.0"
+  }
+}
